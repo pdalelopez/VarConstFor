@@ -18,8 +18,8 @@ public class Fase4 {
 		int startLeapYear = 1948;
 		boolean leapYear;
 		
-		String yesLeap = "tu año de nacimiento es bisiesto";
-		String noLeap = "tu año de nacimiento NO es bisiesto";
+		String yesLeap = "Mi año de nacimiento es bisiesto";
+		String noLeap = "Mi año de nacimiento NO es bisiesto";
 		
 		if ((year-startLeapYear)%4 == 0) {
 			leapYear = true;
