@@ -8,10 +8,10 @@ public class Fase1 {
 		String secondLastName = "Muñoz";
 		int day = 3;
 		int month = 5;
-		int year = 1990;
+		int año = 1990;
 		
 		System.out.println(lastName +" "+ secondLastName+", "+ name);
-		System.out.println(day + "/"+month+"/"+year);
+		System.out.println(day + "/"+month+"/"+año);
 		
 	}
 
